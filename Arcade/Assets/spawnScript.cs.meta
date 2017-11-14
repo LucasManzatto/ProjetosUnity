@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c6749352aa7feb1408ea90f808e4b263
+timeCreated: 1503443696
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - naveInimiga: {fileID: 4105849118984616, guid: b75df73c03fc2c9448fd98a6c55acac7,
+      type: 2}
+  - projetil: {fileID: 4625878465298144, guid: 90565264d429c374c82b2d752b7b8be1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

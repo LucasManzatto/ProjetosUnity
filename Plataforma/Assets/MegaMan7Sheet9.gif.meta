@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: 66a097b53013924468a44b68883bc6cb
+timeCreated: 1505149651
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MegaMan7Sheet9_0
+    21300002: MegaMan7Sheet9_1
+    21300004: MegaMan7Sheet9_2
+    21300006: MegaMan7Sheet9_3
+    21300008: MegaMan7Sheet9_4
+    21300010: MegaMan7Sheet9_5
+    21300012: MegaMan7Sheet9_6
+    21300014: MegaMan7Sheet9_7
+    21300016: MegaMan7Sheet9_8
+    21300018: MegaMan7Sheet9_9
+    21300020: MegaMan7Sheet9_10
+    21300022: MegaMan7Sheet9_11
+    21300024: MegaMan7Sheet9_12
+    21300026: MegaMan7Sheet9_13
+    21300028: MegaMan7Sheet9_14
+    21300030: MegaMan7Sheet9_15
+    21300032: MegaMan7Sheet9_16
+    21300034: MegaMan7Sheet9_17
+    21300036: MegaMan7Sheet9_18
+    21300038: MegaMan7Sheet9_19
+    21300040: MegaMan7Sheet9_20
+    21300042: MegaMan7Sheet9_21
+    21300044: MegaMan7Sheet9_22
+    21300046: MegaMan7Sheet9_23
+    21300048: MegaMan7Sheet9_24
+    21300050: MegaMan7Sheet9_25
+    21300052: MegaMan7Sheet9_26
+    21300054: MegaMan7Sheet9_27
+    21300056: MegaMan7Sheet9_28
+    21300058: MegaMan7Sheet9_29
+    21300060: MegaMan7Sheet9_30
+    21300062: MegaMan7Sheet9_31
+    21300064: MegaMan7Sheet9_32
+    21300066: MegaMan7Sheet9_33
+    21300068: MegaMan7Sheet9_34
+    21300070: MegaMan7Sheet9_35
+    21300072: MegaMan7Sheet9_36
+    21300074: MegaMan7Sheet9_37
+    21300076: MegaMan7Sheet9_38
+    21300078: MegaMan7Sheet9_39
+    21300080: MegaMan7Sheet9_40
+    21300082: MegaMan7Sheet9_41
+    21300084: MegaMan7Sheet9_42
+    21300086: MegaMan7Sheet9_43
+    21300088: MegaMan7Sheet9_44
+    21300090: MegaMan7Sheet9_45
+    21300092: MegaMan7Sheet9_46
+    21300094: MegaMan7Sheet9_47
+    21300096: MegaMan7Sheet9_48
+    21300098: MegaMan7Sheet9_49
+    21300100: MegaMan7Sheet9_50
+    21300102: MegaMan7Sheet9_51
+    21300104: MegaMan7Sheet9_52
+    21300106: MegaMan7Sheet9_53
+    21300108: MegaMan7Sheet9_54
+    21300110: MegaMan7Sheet9_55
+    21300112: MegaMan7Sheet9_56
+    21300114: MegaMan7Sheet9_57
+    21300116: MegaMan7Sheet9_58
+    21300118: MegaMan7Sheet9_59
+    21300120: MegaMan7Sheet9_60
+    21300122: MegaMan7Sheet9_61
+    21300124: MegaMan7Sheet9_62
+    21300126: MegaMan7Sheet9_63
+    21300128: MegaMan7Sheet9_64
+    21300130: MegaMan7Sheet9_65
+    21300132: MegaMan7Sheet9_66
+    21300134: MegaMan7Sheet9_67
+    21300136: MegaMan7Sheet9_68
+    21300138: MegaMan7Sheet9_69
+    21300140: MegaMan7Sheet9_70
+    21300142: MegaMan7Sheet9_71
+    21300144: MegaMan7Sheet9_72
+    21300146: MegaMan7Sheet9_73
+    21300148: MegaMan7Sheet9_74
+    21300150: MegaMan7Sheet9_75
+    21300152: MegaMan7Sheet9_76
+    21300154: MegaMan7Sheet9_77
+    21300156: MegaMan7Sheet9_78
+    21300158: MegaMan7Sheet9_79
+    21300160: MegaMan7Sheet9_80
+    21300162: MegaMan7Sheet9_81
+    21300164: MegaMan7Sheet9_82
+    21300166: MegaMan7Sheet9_83
+    21300168: MegaMan7Sheet9_84
+    21300170: MegaMan7Sheet9_85
+    21300172: MegaMan7Sheet9_86
+    21300174: MegaMan7Sheet9_87
+    21300176: MegaMan7Sheet9_88
+    21300178: MegaMan7Sheet9_89
+    21300180: MegaMan7Sheet9_90
+    21300182: MegaMan7Sheet9_91
+    21300184: MegaMan7Sheet9_92
+    21300186: MegaMan7Sheet9_93
+    21300188: MegaMan7Sheet9_94
+    21300190: MegaMan7Sheet9_95
+    21300192: MegaMan7Sheet9_96
+    21300194: MegaMan7Sheet9_97
+    21300196: MegaMan7Sheet9_98
+    21300198: MegaMan7Sheet9_99
+    21300200: MegaMan7Sheet9_100
+    21300202: MegaMan7Sheet9_101
+    21300204: MegaMan7Sheet9_102
+    21300206: MegaMan7Sheet9_103
+    21300208: MegaMan7Sheet9_104
+    21300210: MegaMan7Sheet9_105
+    21300212: MegaMan7Sheet9_106
+    21300214: MegaMan7Sheet9_107
+    21300216: MegaMan7Sheet9_108
+    21300218: MegaMan7Sheet9_109
+    21300220: MegaMan7Sheet9_110
+    21300222: MegaMan7Sheet9_111
+    21300224: MegaMan7Sheet9_112
+    21300226: MegaMan7Sheet9_113
+    21300228: MegaMan7Sheet9_114
+    21300230: MegaMan7Sheet9_115
+    21300232: MegaMan7Sheet9_116
+    21300234: MegaMan7Sheet9_117
+    21300236: MegaMan7Sheet9_118
+    21300238: MegaMan7Sheet9_119
+    21300240: MegaMan7Sheet9_120
+    21300242: MegaMan7Sheet9_121
+    21300244: MegaMan7Sheet9_122
+    21300246: MegaMan7Sheet9_123
+    21300248: MegaMan7Sheet9_124
+    21300250: MegaMan7Sheet9_125
+    21300252: MegaMan7Sheet9_126
+    21300254: MegaMan7Sheet9_127
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 685
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 685
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 685
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 685
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 685
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 641
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 641
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 641
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_8
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 641
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 641
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 641
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_11
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 641
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_12
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 641
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 597
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 597
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 597
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 597
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_17
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 597
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 597
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 597
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_20
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 597
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_21
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 597
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_22
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 597
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 557
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 557
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 557
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_26
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 557
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_27
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 557
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 557
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_29
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 557
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_30
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 557
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_31
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 557
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_32
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 557
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_33
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 557
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_34
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 557
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 515
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 515
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_37
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 515
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_38
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 515
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_39
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 515
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_40
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 515
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 459
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_42
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 459
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_43
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 459
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_44
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 459
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_45
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 459
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_46
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 459
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_47
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 459
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_48
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 459
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_49
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 459
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_50
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 459
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_51
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 418
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_52
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 418
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_53
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 418
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_54
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 418
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_55
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 418
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 418
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_57
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 374
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_58
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 374
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 374
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_60
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 374
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 374
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_62
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 374
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_63
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 374
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_64
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 374
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 374
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_66
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 374
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_67
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 374
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_68
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 374
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_69
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 316
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_70
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 316
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_71
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 316
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_72
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 316
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_73
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 316
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_74
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 316
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_75
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 316
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_76
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 316
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_77
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 316
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_78
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 316
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_79
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 273
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_80
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 273
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_81
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 273
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_82
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 273
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_83
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 273
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_84
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 273
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_85
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 273
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_86
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 273
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_87
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 273
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_88
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 273
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 233
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_90
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 233
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_91
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 233
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_92
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 233
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_93
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 233
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_94
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 233
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_95
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 233
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_96
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 233
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_97
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 233
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_98
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 233
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_99
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 233
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_100
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 233
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_101
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 179
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_102
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 179
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_103
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 172
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_104
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 179
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_105
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 179
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_106
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 172
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_107
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 179
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_108
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 179
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_109
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 110
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_110
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 110
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_111
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 110
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_112
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 110
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_113
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 110
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_114
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 110
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_115
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 110
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_116
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 110
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_117
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 110
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_118
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 58
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_119
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 58
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_120
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 58
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_121
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 58
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_122
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 58
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_123
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 58
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_124
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 4
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_125
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 4
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_126
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 4
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegaMan7Sheet9_127
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 4
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
